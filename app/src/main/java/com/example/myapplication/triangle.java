@@ -1,4 +1,4 @@
 public triangle extends shape{
-    private base int;
-    String color = "Pink";
+    private base int = 0;
+    String color = "";
 }
