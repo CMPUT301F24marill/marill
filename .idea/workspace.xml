@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ded84813-3687-435b-9224-bad6063d07e9" name="Changes" comment="" />
+    <list default="true" id="ded84813-3687-435b-9224-bad6063d07e9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/myapplication/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/myapplication/Shape.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +46,7 @@
     "android.gradle.sync.needed": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "origin/sam",
+    "git-widget-placeholder": "samuel",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/luong/Downloads/uofa/cmput301/labs/marill"
   }
