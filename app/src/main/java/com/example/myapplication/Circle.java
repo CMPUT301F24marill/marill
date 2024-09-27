@@ -1,4 +1,4 @@
 public Circle extends Shape{
     private int radius;
-    private String color = "blue";
+    private String color = "$PUT_YOUR_CHOICE_OF_COLOR";
 }
