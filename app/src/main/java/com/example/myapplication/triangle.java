@@ -1,3 +1,4 @@
 public triangle extends shape{
-    private base int;
+    private height int;
+    private size;
 }
