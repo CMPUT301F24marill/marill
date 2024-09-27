@@ -2,7 +2,4 @@
 .gradle/
 build/
 
-
-# IntelliJ
-*.iml
 .idea/
