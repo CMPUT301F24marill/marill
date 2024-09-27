@@ -1,5 +1,5 @@
 public triangle extends shape{
     private int height = 1;
     private int size;
-    private String color = "blue";
+    private String color = "green";
 }
